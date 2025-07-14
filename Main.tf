@@ -27,7 +27,7 @@ resource "azurerm_resource_group" "example" {
 
 
 # -----------------------------
-# Resource Group Definition--feature
+# Resource Group Definition--features
 # -----------------------------
 resource "azurerm_resource_group" "example" {
   name     = "example-resource-group"
